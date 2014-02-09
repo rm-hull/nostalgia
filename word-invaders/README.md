@@ -7,7 +7,7 @@ Compact (as below). I think this was an assignment for GCE 'O' level Computing
 
 It was an educational game, designed to help children with dyslexia: The invaders were word
 parts like 'ear', 'ir', 'or', 'are', 'our', and so on, and the child was given a 
-partial word like S---CH and had to shoot the correct invader that fitted the world.
+partial word like S---CH and had to shoot the correct invader that fitted the word.
 
 ![BBC Master Compact](http://www.mjpye.org.uk/images/other/masterc.jpg)
 
