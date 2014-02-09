@@ -1,8 +1,11 @@
 # Word Invaders
 
-[Word Invaders](https://raw2.github.com/rm-hull/nostalgia/master/word-invaders/word-invaders.pdf) was a program written in BBC Basic - at the time I had a BBC Master
-Compact (as below). I think this was an assignment for GCE 'O' Computing. It was
-an educational game, designed to help children with dyslexia: The invaders were word
+[Word Invaders](https://raw2.github.com/rm-hull/nostalgia/master/word-invaders/word-invaders.pdf) 
+was a program I wrote in BBC Basic in 1986 - at the time I had a BBC Master
+Compact (as below). I think this was an assignment for GCE 'O' Computing (or possibly 'OA' 
+level, which I also did). 
+
+It was an educational game, designed to help children with dyslexia: The invaders were word
 parts like 'ear', 'ir', 'or', 'are', 'our', and so on, and the child was given a 
 partial word like S---CH and had to shoot the correct invader that fitted the world.
 
