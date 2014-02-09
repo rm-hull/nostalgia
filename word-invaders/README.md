@@ -2,8 +2,8 @@
 
 [Word Invaders](https://raw2.github.com/rm-hull/nostalgia/master/word-invaders/word-invaders.pdf) 
 was a program I wrote in BBC Basic in 1986 - at the time I had a BBC Master
-Compact (as below). I think this was an assignment for GCE 'O' Computing (or possibly 'OA' 
-level, which I also did). 
+Compact (as below). I think this was an assignment for GCE 'O' level Computing 
+(or possibly 'OA' level, which I also did). 
 
 It was an educational game, designed to help children with dyslexia: The invaders were word
 parts like 'ear', 'ir', 'or', 'are', 'our', and so on, and the child was given a 
