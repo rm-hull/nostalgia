@@ -6,9 +6,9 @@ by GEC Marconi and spend summers working variously on battle simuations in
 SMALLTALK-80, processing RADAR with FFT's and designing/assembing breadboard 
 circuits and writing assembler for 68HC11 controllers.
 
-Somewhere during 1990 I took a course on Functional Programming. 1990. Twenty four
-years ago. I can no longer find any mention, however brief, of GLIDE on the 
-internet - our preferred functional language. This, of course, was before Haskell 
+Somewhere during 1990 I took a course on Functional Programming. 1990... Twenty four
+years ago. I can no longer find any mention, however brief, of GLIDE (our preferred
+functional language) on the internet. This, of course, was before Haskell 
 had been designed (although looking at the Wikipedia page, only just).
 
 I had (I am certain) the book by _Richard Bird_ and _Philip Wadler_ below; I
