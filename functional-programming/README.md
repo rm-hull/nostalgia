@@ -7,19 +7,19 @@ SMALLTALK-80, processing RADAR with FFT's and designing/assembing breadboard
 circuits and writing assembler for 68HC11 controllers.
 
 Somewhere during 1990 I took a course on Functional Programming. 1990. Twenty four
-years ago. I can no longer find any mention, however brief, of GLIDE on the internet 
-- our preferred functional language. This, of course, was before Haskell had been 
-designed (although looking at the Wikipedia page, only just).
+years ago. I can no longer find any mention, however brief, of GLIDE on the 
+internet - our preferred functional language. This, of course, was before Haskell 
+had been designed (although looking at the Wikipedia page, only just).
 
 I had (I am certain) the book by _Richard Bird_ and _Philip Wadler_ below; I
 distinctly remember the red and white cover, but it has been long since mislaid.
 
-[Bird & Wadler](https://d202m5krfqbpi5.cloudfront.net/books/1300364821l/3791460.jpg)
+![Bird & Wadler](https://d202m5krfqbpi5.cloudfront.net/books/1300364821l/3791460.jpg)
 
-I however own a book on programming in Miranda which dates from the same era, 
+I however _do_ own a book on programming in Miranda which dates from the same era, 
 although I never recall _actually_ programming with Miranda.
 
-[Holyer](http://ecx.images-amazon.com/images/I/51gLLfZEvDL._SL500_.jpg)
+![Holyer](http://ecx.images-amazon.com/images/I/51gLLfZEvDL._SL500_.jpg)
 
 ## Problems
 
