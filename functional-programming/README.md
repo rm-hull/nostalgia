@@ -43,4 +43,4 @@ V045 was the computer lab - lots of amber screen VT220's - connected to the
 departmental Orion UNIX system, on which we ran the GLIDE programs, hacked of
 course with vi or Emacs.
 
-Here are the [notes for GLIDE users](https://raw2.github.com/rm-hull/nostalgia/master/functional-programming/notes-for-glide-users.pdf) from 1990.
+Here are the [notes for GLIDE users](https://raw2.github.com/rm-hull/nostalgia/master/functional-programming/notes-for-glide-users.pdf) from 1989.
