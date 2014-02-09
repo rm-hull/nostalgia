@@ -17,8 +17,10 @@ I sold the BBC computer in around 1988, and bought a Cambridge Z88 instead.
 
 1. I don't appear to have liked extranous spaces or the use of indenting, or comments.
 2. At line 100, I have no idea who SID or ERIC were, but NICK and NAFAN (Nathan)
-   where my friends.
-3. This is the earliest program listing I could find - 28 years old!
+   where my school friends.
+3. This is the earliest program listing of mine I could find - 28 years old! There
+   would've been earlier ones - from 1982 on a ZX Spectrum - but these, if printed 
+   out, wouldn't have survived: I had a thermal printer at the time. 
 4. Trying to recall what the *VIILWIV* string is supposed to represent... it's not
    roman numerals (W is not a legal number).
 
