@@ -1,12 +1,12 @@
 # Word Invaders
 
-[Word Invaders]() was a program written in BBC Basic - at the time I had a BBC Master
+[Word Invaders](https://raw2.github.com/rm-hull/nostalgia/master/word-invaders/word-invaders.pdf) was a program written in BBC Basic - at the time I had a BBC Master
 Compact (as below). I think this was an assignment for GCE 'O' Computing. It was
 an educational game, designed to help children with dyslexia: The invaders were word
 parts like 'ear', 'ir', 'or', 'are', 'our', and so on, and the child was given a 
 partial word like S---CH and had to shoot the correct invader that fitted the world.
 
-![BBC Master Compact](https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=kRO3bnM2ar0-9M&tbnid=8HOJpQEKlA7t0M:&ved=0CAUQjRw&url=http%3A%2F%2Fwww.mjpye.org.uk%2Facornuser.html&ei=YuT3UuGFL8TRsgaFyYDQDQ&bvm=bv.60983673,d.bGE&psig=AFQjCNHSDNtL3CMP7SoxykfFt63UcWzLhw&ust=1392063959627270)
+![BBC Master Compact](http://www.mjpye.org.uk/images/other/masterc.jpg)
 
 I sold the BBC computer in around 1988, and bought a Cambridge Z88 instead.
 
