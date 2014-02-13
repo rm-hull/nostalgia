@@ -26,3 +26,7 @@ I sold the BBC computer in around 1988, and bought a Cambridge Z88 instead.
 
 If I can locate a javascript BBC emulator, I'll key the game in and push the source
 here.
+
+## References 
+
+* http://b-em.bbcmicro.com/
