@@ -1,7 +1,7 @@
 # Lithographs depicting central Leeds at the turn of the 20th century
 
 ## ALBION STREET 1900
- Looking Notth from the junction with Albion Place
+ Looking North from the junction with Albion Place
 ![Albion Street 1900](https://raw2.github.com/rm-hull/nostalgia/master/Leeds%20lithographs/leeds_1.png)
 
 ## LEEDS BRIDGE 1898
